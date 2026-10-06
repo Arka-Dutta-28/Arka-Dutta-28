@@ -3,9 +3,9 @@
 M.Tech student in Artificial Intelligence at IIT Gandhinagar. Before that I
 studied Mathematics and Computing at IIT Patna.
 
-My research is on computer vision for surgical video: estimating depth from a
-single endoscope camera, and planning the steps of a surgical procedure from
-video. Outside it I build machine learning systems and put them online.
+My research is on computer vision for surgical video: planning the steps of a
+surgical procedure from video, and estimating depth from a single endoscope
+camera. Outside it I build machine learning systems and put them online.
 
 ### Projects
 
