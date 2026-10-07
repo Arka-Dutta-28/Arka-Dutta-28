@@ -19,4 +19,4 @@ camera. Outside it I build machine learning systems and put them online.
 
 ### Contact
 
-[arka.dutta@iitgn.ac.in](mailto:arka.dutta@iitgn.ac.in) · [LinkedIn](https://www.linkedin.com/in/arkadutta28)
+[arka-dutta-28.github.io](https://arka-dutta-28.github.io/) · [arka.dutta@iitgn.ac.in](mailto:arka.dutta@iitgn.ac.in) · [LinkedIn](https://www.linkedin.com/in/arkadutta28)
